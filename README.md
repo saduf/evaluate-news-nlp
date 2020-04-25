@@ -20,12 +20,12 @@ Obtain an [API key](https://developer.aylien.com/signup) for Aylien NLP API
 1. Clone the repo
 
 ```
-$ git clone -b refresh-2019 --single-branch https://github.com/saduf/fend.git
+$ git clone https://github.com/saduf/evaluate-news-nlp.git
 ```
 
 2. Navigate to the project root.
 ```
-$ cd fend/projects/evaluate-news-nlp
+$ cd evaluate-news-nlp
 ```
 
 3. Install dependencies
